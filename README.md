@@ -1,4 +1,6 @@
-# DBI
+# DB
+
+#### Technologies used: Java, JUnit
 
 ## Dabase Management System
 
