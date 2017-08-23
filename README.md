@@ -2,7 +2,7 @@
 
 ## Dabase Management System
 
-Extend a Java-based database management system by implementing the core modules required to access data stored on disk. 
+Extended a Java-based database management system by implementing the core modules required to access data stored on disk. 
 wrote code for those classes. And the written code is evaluated by running a set of system tests written using JUnit.
 
 Implemented Tuples, Fields, Catalog, BufferPool, Filer, Aggregates, HeapPage and HeapFile access mode.
